@@ -1,0 +1,79 @@
+body {
+	background-image: url("../images/kansas.png");
+	background-size:     cover;                   
+    background-repeat:   no-repeat;
+    background-position: center center; 
+}
+
+.jumbotron {
+	opacity: .75;
+	text-align: center;
+	font-family: 'Rye', cursive;
+	color: blue;
+}
+
+h2, h3 {
+	font-family: 'Indie Flower', cursive;
+	color: red;
+	font-size: 40px;
+}
+
+.randomNumber {
+	font-family: 'Indie Flower', cursive;
+	font-size: 40px;
+	color:red;
+}
+
+.userScore {
+	font-family: 'Indie Flower', cursive;
+	font-size: 40px;
+	color:blue;
+}
+
+.jayhawk1 {
+	background: url("../images/1912.png") no-repeat;
+	cursor:pointer;
+    border:none;
+    width: 200px;
+    height: 270px;
+}
+
+.jayhawk1: hover {
+	background: url("../images/1912.png") no-repeat;
+}
+
+.jayhawk2 {
+	background: url("../images/1920.png") no-repeat;
+	cursor:pointer;
+    border:none;
+    width: 200px;
+    height: 270px;
+}
+
+.jayhawk2: hover {
+	background: url("../images/1920.png") no-repeat;
+}
+
+.jayhawk3 {
+	background: url("../images/1923.png") no-repeat;
+	cursor:pointer;
+    border:none;
+    width: 200px;
+    height: 270px;
+}
+
+.jayhawk3: hover {
+	background: url("../images/1923.png") no-repeat;
+}	
+
+.jayhawk4 {
+	background: url("../images/1941.png") no-repeat;
+	cursor:pointer;
+    border:none;
+    width: 200px;
+    height: 270px;
+}
+
+.jayhawk4: hover {
+	background: url("../images/1941.png") no-repeat;
+}	
